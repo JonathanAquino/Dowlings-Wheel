@@ -13,4 +13,18 @@ His recipe for success is as follows:</p>
 Dowling recommends that you write out each table 200 times (but only 100 times for the Adjectives table).
 Using this website, you can type the tables instead of writing them out by hand. Moreover, we mark your words
 in green or red to show which are correct and which are incorrect.</p>
+<h2>Frequently Asked Questions (FAQ)</h2>
+<h3>Why is the site called “Dowling’s Wheel”?</h3>
+<p>It helps you with the first part of the <strong>Dowling</strong> Method for learning Latin:
+memorizing the six tables in the appendix of the book <cite><strong>Wheel</strong>ock’s Latin</cite>.</p>
+<h3>I see “LiveCorrect enabled”. What’s that?</h3>
+<p>LiveCorrect gives you immediate feedback when you make a mistake, and
+when you successfully complete the table. When you make a mistake, the background
+turns light red. When you complete the table correctly, the background turns green.
+LiveCorrect is automatically enabled for browsers with JavaScript.</p>
+<h3>The words are in a different order than I’m used to. How come?</h3>
+<p>We use the order in <cite>Wheelock’s Latin</cite>: nominative, genitive, dative, accusative, ablative.
+In the United Kingdom and many Commonwealth countries, a
+<a href="http://en.wikipedia.org/wiki/Instruction_in_Latin#Order_of_cases">different order</a> is taught:
+nominative, vocative, accusative, genitive, dative, ablative.</p>
 <?php require_once './app/views/shared/_footer.php' ?>

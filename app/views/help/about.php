@@ -15,7 +15,7 @@ Using this website, you can type the tables instead of writing them out by hand.
 in green or red to show which are correct and which are incorrect.</p>
 <h2>Frequently Asked Questions (FAQ)</h2>
 <h3>Why is the site called “Dowling’s Wheel”?</h3>
-<p>It helps you with the first part of the <strong>Dowling</strong> Method for learning Latin:
+<p>It helps you with part of the <strong>Dowling</strong> Method for learning Latin:
 memorizing the six tables in the appendix of the book <cite><strong>Wheel</strong>ock’s Latin</cite>.</p>
 <h3>I see “LiveCorrect enabled”. What’s that?</h3>
 <p>LiveCorrect gives you immediate feedback when you make a mistake, and

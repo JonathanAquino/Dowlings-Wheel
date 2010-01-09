@@ -27,4 +27,6 @@ LiveCorrect is automatically enabled for browsers with JavaScript.</p>
 In the United Kingdom and many Commonwealth countries, a
 <a href="http://en.wikipedia.org/wiki/Instruction_in_Latin#Order_of_cases">different order</a> is taught:
 nominative, vocative, accusative, genitive, dative, ablative.</p>
+<h3>Is the source code available for this website?</h3>
+<p><a href="http://github.com/JonathanAquino/Dowlings-Wheel">Yes!</a></p>
 <?php require_once './app/views/shared/_footer.php' ?>

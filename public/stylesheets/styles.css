@@ -452,3 +452,8 @@ p.instructions {
 	background-color: #F3F3F3;
 	padding: 1em;
 }
+
+img.thumbnail {
+    float: right;
+	padding-bottom: 20px;
+}

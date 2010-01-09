@@ -18,6 +18,7 @@
         <li <?php if (ifsetor($this->page) === 'home') { echo 'class="current_page_item"'; } ?>><a href="index.php">Home</a></li>
 		<li <?php if (ifsetor($this->page) === 'demo') { echo 'class="current_page_item"'; } ?>><a href="index.php?controller=table&action=new&table=<?php echo urlencode(TableLoader::NOUNS) ?>&demo=1">Demo</a></li>
 		<li <?php if (ifsetor($this->page) === 'blog') { echo 'class="current_page_item"'; } ?>><a href="http://jonaquino.blogspot.com/2009/12/dowlings-wheel-webapp-i-wrote-to-assist.html">Blog</a></li>
+		<li <?php if (ifsetor($this->page) === 'goodies') { echo 'class="current_page_item"'; } ?>><a href="index.php?controller=help&action=show&id=goodies">Goodies</a></li>
 		<li <?php if (ifsetor($this->page) === 'about') { echo 'class="current_page_item"'; } ?>><a href="index.php?controller=help&action=show&id=about">About</a></li>
 		<li <?php if (ifsetor($this->page) === 'contact') { echo 'class="current_page_item"'; } ?>><a href="index.php?controller=help&action=show&id=contact">Contact</a></li>
 	</ul>

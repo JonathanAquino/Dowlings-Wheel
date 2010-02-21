@@ -47,32 +47,41 @@ Large (feminine, singular): magna magnae magnae magnam magna
 Large (feminine, plural): magnae magnarum magnis magnas magnis
 Large (neuter, singular): magnum magni magno magnum magno
 Large (neuter, plural): magna magnorum magnis magna magnis
+
 Free (masculine, singular): liber liberi libero liberum libero
 Free (feminine, singular): libera liberae liberae liberam libera
 Free (neuter, singular): liberum liberi libero liberum libero
+
 Beautiful (masculine, singular): pulcher pulchri pulchro pulchrum pulchro
 Beautiful (feminine, singular): pulchra pulchrae pulchrae pulchram pulchra
 Beautiful (neuter, singular): pulchrum pulchri pulchro pulchrum pulchro
 
 --- Third Declension ---
+[Two endings]
 Brave (masculine, singular): fortis fortis forti fortem forti
 Brave (masculine, plural): fortes fortium fortibus fortes fortibus
 Brave (feminine, singular): fortis fortis forti fortem forti
 Brave (feminine, plural): fortes fortium fortibus fortes fortibus
 Brave (neuter, singular): forte fortis forti forte forti
 Brave (neuter, plural): fortia fortium fortibus fortia fortibus
+
+[Three endings]
 Keen (masculine, singular): acer acris acri acrem acri
 Keen (masculine, plural): acres acrium acribus acres acribus
 Keen (feminine, singular): acris acris acri acrem acri
 Keen (feminine, plural): acres acrium acribus acres acribus
 Keen (neuter, singular): acre acris acri acre acri
 Keen (neuter, plural): acria acrium acribus acria acribus
+
+[One ending]
 Powerful (masculine, singular): potens potentis potenti potentem potenti
 Powerful (masculine, plural): potentes potentium potentibus potentes potentibus
 Powerful (feminine, singular): potens potentis potenti potentem potenti
 Powerful (feminine, plural): potentes potentium potentibus potentes potentibus
 Powerful (neuter, singular): potens potentis potenti potens potenti
 Powerful (neuter, plural): potentia potentium potentibus potentia potentibus
+
+[Comparatives]
 Braver (masculine, singular): fortior fortioris fortiori fortiorem fortiore
 Braver (masculine, plural): fortiores fortiorum fortioribus fortiores fortioribus
 Braver (feminine, singular): fortior fortioris fortiori fortiorem fortiore

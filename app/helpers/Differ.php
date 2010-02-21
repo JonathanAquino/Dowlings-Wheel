@@ -49,7 +49,7 @@ class Differ {
                 $diff .= ' <span class="incorrect">' . qh($actualMatches[1][$i]) . ' <span class="hint">()</span></span>';
             } elseif ($i >= count($actualMatches[1])) {
                 $diff .= ' <span class="incorrect"><span class="hint">(' . qh($expectedMatches[1][$i]) . ')</span></span>';
-            } elseif (strcasecmp($expectedMatches[1][$i], $actualMatches[1][$i]) !== 0) {
+            } elseif (strcasecmp(preg_replace('![^a-z]!i', '', $expectedMatches[1][$i]), preg_replace('![^a-z]!i', '', $actualMatches[1][$i])) !== 0) {
                 $diff .= ' <span class="incorrect">' . qh($actualMatches[1][$i]) . ' <span class="hint">(' . qh($expectedMatches[1][$i]) . ')</span></span>';
             } else {
                 $diff .= ' <span class="correct">' . qh($actualMatches[1][$i]) . '</span>';

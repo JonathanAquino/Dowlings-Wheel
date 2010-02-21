@@ -64,8 +64,8 @@ dw.table['new'] = (function() {
         if (answerLine.indexOf(':') === -1) {
             return { correct: true, complete: true };
         }
-        var normalizedInputLine = inputLine.replace(/\s/g, '');
-        var normalizedAnswerLine = answerLine.replace(/\s/g, '');
+        var normalizedInputLine = inputLine.replace(/[^a-z]/ig, '');
+        var normalizedAnswerLine = answerLine.replace(/[^a-z]/ig, '');
         return {
             correct: normalizedAnswerLine.indexOf(normalizedInputLine) === 0,
             complete: normalizedAnswerLine === normalizedInputLine

@@ -12,6 +12,10 @@ class HelpController {
      */
     public function action_show() {
         switch ($_GET['id']) {
+            case 'goodies':
+                $this->page = 'goodies';
+                require_once './app/views/help/goodies.php';
+                break;
             case 'about':
                 $this->page = 'about';
                 require_once './app/views/help/about.php';

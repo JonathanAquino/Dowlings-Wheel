@@ -107,7 +107,7 @@ Take: capiebam capiebas capiebat capiebamus capiebatis capiebant
 
 --- Future ---
 Praise: laudabo laudabis laudabit laudabimus laudabitis laudabunt
-Remind: monebo monebis monebit monebimus moenebitis monebunt
+Remind: monebo monebis monebit monebimus monebitis monebunt
 Lead: ducam duces ducet ducemus ducetis ducent
 Hear: audiam audies audiet audiemus audietis audient
 Take: capiam capies capiet capiemus capietis capient
@@ -196,9 +196,9 @@ Take: caperem caperes caperet caperemus caperetis caperent
 --- Perfect ---
 Praise: laudaverim laudaveris laudaverit laudaverimus laudaveritis laudaverint
 Remind: monuerim monueris monuerit monuerimus monueritis monuerint
-Lead: ducerem duceres duceret duceremus duceretis ducerent
-Hear: audirem audires audiret audiremus audiretis audirent
-Take: caperem caperes caperet caperemus caperetis caperent
+Lead: duxerim duxeris duxerit duxerimus duxeritis duxerint
+Hear: audiverim audiveris audiverit audiverimus audiveritis audiverint
+Take: ceperim ceperis ceperit ceperimus ceperitis ceperint
 
 --- Pluperfect ---
 Praise: laudavissem laudavisses laudavisset laudavissemus laudavissetis laudavissent

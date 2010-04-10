@@ -145,7 +145,7 @@ Take: capior caperis capitur capimur capimini capiuntur
 --- Imperfect ---
 Praise: laudabar laudabaris laudabatur laudabamur laudabamini laudabantur
 Remind: monebar monebaris monebatur monebamur monebamini monebantur
-Lead: ducebar ducebaris decebatur ducebamur ducebamini ducebantur
+Lead: ducebar ducebaris ducebatur ducebamur ducebamini ducebantur
 Hear: audiebar audiebaris audiebatur audiebamur audiebamini audiebantur
 Take: capiebar capiebaris capiebatur capiebamur capiebamini capiebantur
 

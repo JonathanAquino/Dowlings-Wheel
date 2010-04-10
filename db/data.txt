@@ -203,7 +203,7 @@ Take: ceperim ceperis ceperit ceperimus ceperitis ceperint
 --- Pluperfect ---
 Praise: laudavissem laudavisses laudavisset laudavissemus laudavissetis laudavissent
 Remind: monuissem monuisses monuisset monuissemus monuissetis monuissent
-Lead: duxissem duxisses duxisset duxissemus duxissettis duxissent
+Lead: duxissem duxisses duxisset duxissemus duxissetis duxissent
 Hear: audivissem audivisses audivisset audivissemus audivissetis audivissent
 Take: cepissem cepisses cepisset cepissemus cepissetis cepissent
 

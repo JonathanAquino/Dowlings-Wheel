@@ -150,7 +150,7 @@ Hear: audiebar audiebaris audiebatur audiebamur audiebamini audiebantur
 Take: capiebar capiebaris capiebatur capiebamur capiebamini capiebantur
 
 --- Future ---
-Praise: laudabor laudaberis laudabitur laudabimur laudabimini laudabantur
+Praise: laudabor laudaberis laudabitur laudabimur laudabimini laudabuntur
 Remind: monebor moneberis monebitur monebimur monebimini monebuntur
 Lead: ducar duceris ducetur ducemur ducemini ducentur
 Hear: audiar audieris audietur audiemur audiemini audientur

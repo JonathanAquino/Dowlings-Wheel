@@ -1,6 +1,6 @@
 <?php require_once './app/views/shared/_header.php' ?>
 <h1>Welcome to Dowling’s Wheel</h1>
-<p>If you are learning Latin by the <a href="http://www.rci.rutgers.edu/~wcd/Latin.htm">Dowling Method</a>,
+<p>If you are learning Latin by the <a href="http://www.wcdrutgers.net/Latin.htm">Dowling Method</a>,
 you know that you need to memorize six tables in the back of <cite>Wheelock’s Latin</cite>.
 This website will help you to memorize those tables (and you won’t need to buy a copy of Wheelock).
 Instead of writing the tables out by hand, you can simply type them into this website and we’ll tell you

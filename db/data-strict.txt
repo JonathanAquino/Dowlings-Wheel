@@ -1,0 +1,239 @@
+=== Nouns ===
+
+--- First Declension ---
+Gate (feminine): porta portae portae portam portā
+Gates (feminine): portae portārum portīs portās portīs
+
+--- Second Declension ---
+Friend (masculine): amicus amici amico amicum amico
+Friends (masculine): amici amicorum amicis amicos amicis
+Boy (masculine): puer pueri puero puerum puero
+Boys (masculine): pueri puerorum pueris pueros pueris
+Field (masculine): ager agri agro agrum agro
+Fields (masculine): agri agrorum agris agros agris
+Gift (neuter): donum doni dono donum dono
+Gifts (neuter): dona donorum donis dona donis
+
+--- Third Declension ---
+King (masculine): rex regis regi regem rege
+Kings (masculine): reges regum regibus reges regibus
+Body (neuter): corpus corporis corpori corpus corpore
+Bodies (neuter): corpora corporum corporibus corpora corporibus
+
+--- Third Declension, I-Stems ---
+Citizen (masculine): civis civis civi civem cive
+Citizens (masculine): cives civium civibus cives civibus
+City (feminine): urbs urbis urbi urbem urbe
+Cities (feminine): urbes urbium urbibus urbes urbibus
+Sea (neuter): mare maris mari mare mari
+Seas (neuter): maria marium maribus maria maribus
+
+--- Fourth Declension ---
+Fruit (masculine): fructus fructus fructui fructum fructu
+Fruits (masculine): fructus fructuum fructibus fructus fructibus
+Horn (neuter): cornu cornus cornu cornu cornu
+Horns (neuter): cornua cornuum cornibus cornua cornibus
+
+--- Fifth Declension ---
+Day (masculine): dies diei diei diem die
+Days (masculine): dies dierum diebus dies diebus
+
+=== Adjectives ===
+
+--- First and Second Declensions ---
+Large (masculine, singular): magnus magni magno magnum magno
+Large (masculine, plural): magni magnorum magnis magnos magnis
+Large (feminine, singular): magna magnae magnae magnam magna
+Large (feminine, plural): magnae magnarum magnis magnas magnis
+Large (neuter, singular): magnum magni magno magnum magno
+Large (neuter, plural): magna magnorum magnis magna magnis
+
+Free (masculine, singular): liber liberi libero liberum libero
+Free (feminine, singular): libera liberae liberae liberam libera
+Free (neuter, singular): liberum liberi libero liberum libero
+
+Beautiful (masculine, singular): pulcher pulchri pulchro pulchrum pulchro
+Beautiful (feminine, singular): pulchra pulchrae pulchrae pulchram pulchra
+Beautiful (neuter, singular): pulchrum pulchri pulchro pulchrum pulchro
+
+--- Third Declension ---
+[Two endings]
+Brave (masculine, singular): fortis fortis forti fortem forti
+Brave (masculine, plural): fortes fortium fortibus fortes fortibus
+Brave (feminine, singular): fortis fortis forti fortem forti
+Brave (feminine, plural): fortes fortium fortibus fortes fortibus
+Brave (neuter, singular): forte fortis forti forte forti
+Brave (neuter, plural): fortia fortium fortibus fortia fortibus
+
+[Three endings]
+Keen (masculine, singular): acer acris acri acrem acri
+Keen (masculine, plural): acres acrium acribus acres acribus
+Keen (feminine, singular): acris acris acri acrem acri
+Keen (feminine, plural): acres acrium acribus acres acribus
+Keen (neuter, singular): acre acris acri acre acri
+Keen (neuter, plural): acria acrium acribus acria acribus
+
+[One ending]
+Powerful (masculine, singular): potens potentis potenti potentem potenti
+Powerful (masculine, plural): potentes potentium potentibus potentes potentibus
+Powerful (feminine, singular): potens potentis potenti potentem potenti
+Powerful (feminine, plural): potentes potentium potentibus potentes potentibus
+Powerful (neuter, singular): potens potentis potenti potens potenti
+Powerful (neuter, plural): potentia potentium potentibus potentia potentibus
+
+[Comparatives]
+Braver (masculine, singular): fortior fortioris fortiori fortiorem fortiore
+Braver (masculine, plural): fortiores fortiorum fortioribus fortiores fortioribus
+Braver (feminine, singular): fortior fortioris fortiori fortiorem fortiore
+Braver (feminine, plural): fortiores fortiorum fortioribus fortiores fortioribus
+Braver (neuter, singular): fortius fortioris fortiori fortius fortiore
+Braver (neuter, plural): fortiora fortiorum fortioribus fortiora fortioribus
+
+=== Verbs, Indicative Active ===
+
+--- Present ---
+Praise: laudo laudas laudat laudamus laudatis laudant
+Remind: moneo mones monet monemus monetis monent
+Lead: duco ducis ducit ducimus ducitis ducunt
+Hear: audio audis audit audimus auditis audiunt
+Take: capio capis capit capimus capitis capiunt
+
+--- Imperfect ---
+Praise: laudabam laudabas laudabat laudabamus laudabatis laudabant
+Remind: monebam monebas monebat monebamus monebatis monebant
+Lead: ducebam ducebas ducebat ducebamus ducebatis ducebant
+Hear: audiebam audiebas audiebat audiebamus audiebatis audiebant
+Take: capiebam capiebas capiebat capiebamus capiebatis capiebant
+
+--- Future ---
+Praise: laudabo laudabis laudabit laudabimus laudabitis laudabunt
+Remind: monebo monebis monebit monebimus monebitis monebunt
+Lead: ducam duces ducet ducemus ducetis ducent
+Hear: audiam audies audiet audiemus audietis audient
+Take: capiam capies capiet capiemus capietis capient
+
+--- Perfect ---
+Praise: laudavi laudavisti laudavit laudavimus laudavistis laudaverunt
+Remind: monui monuisti monuit monuimus monuistis monuerunt
+Lead: duxi duxisti duxit duximus duxistis duxerunt
+Hear: audivi audivisti audivit audivimus audivistis audiverunt
+Take: cepi cepisti cepit cepimus cepistis ceperunt
+
+--- Pluperfect ---
+Praise: laudaveram laudaveras laudaverat laudaveramus laudaveratis laudaverant
+Remind: monueram monueras monuerat monueramus monueratis monuerant
+Lead: duxeram duxeras duxerat duxeramus duxeratis duxerant
+Hear: audiveram audiveras audiverat audiveramus audiveratis audiverant
+Take: ceperam ceperas ceperat ceperamus ceperatis ceperant
+
+--- Future Perfect ---
+Praise: laudavero laudaveris laudaverit laudaverimus laudaveritis laudaverint
+Remind: monuero monueris monuerit monuerimus monueritis monuerint
+Lead: duxero duxeris duxerit duxerimus duxeritis duxerint
+Hear: audivero audiveris audiverit audiverimus audiveritis audiverint
+Take: cepero ceperis ceperit ceperimus ceperitis ceperint
+
+=== Verbs, Indicative Passive ===
+
+--- Present ---
+Praise: laudor laudaris laudatur laudamur laudamini laudantur
+Remind: moneor moneris monetur monemur monemini monentur
+Lead: ducor duceris ducitur ducimur ducimini ducuntur
+Hear: audior audiris auditur audimur audimini audiuntur
+Take: capior caperis capitur capimur capimini capiuntur
+
+--- Imperfect ---
+Praise: laudabar laudabaris laudabatur laudabamur laudabamini laudabantur
+Remind: monebar monebaris monebatur monebamur monebamini monebantur
+Lead: ducebar ducebaris ducebatur ducebamur ducebamini ducebantur
+Hear: audiebar audiebaris audiebatur audiebamur audiebamini audiebantur
+Take: capiebar capiebaris capiebatur capiebamur capiebamini capiebantur
+
+--- Future ---
+Praise: laudabor laudaberis laudabitur laudabimur laudabimini laudabuntur
+Remind: monebor moneberis monebitur monebimur monebimini monebuntur
+Lead: ducar duceris ducetur ducemur ducemini ducentur
+Hear: audiar audieris audietur audiemur audiemini audientur
+Take: capiar capieris capietur capiemur capiemini capientur
+
+--- Perfect ---
+Praise: laudatus sum laudatus es laudatus est laudati sumus laudati estis laudati sunt
+Remind: monitus sum monitus es monitus est moniti sumus moniti estis moniti sunt
+Lead: ductus sum ductus es ductus est ducti sumus ducti estis ducti sunt
+Hear: auditus sum auditus es auditus est auditi sumus auditi estis auditi sunt
+Take: captus sum captus es captus est capti sumus capti estis capti sunt
+
+--- Pluperfect ---
+Praise: laudatus eram laudatus eras laudatus erat laudati eramus laudati eratis laudati erant
+Remind: monitus eram monitus eras monitus erat moniti eramus moniti eratis moniti erant
+Lead: ductus eram ductus eras ductus erat ducti eramus ducti eratis ducti erant
+Hear: auditus eram auditus eras auditus erat auditi eramus auditi eratis auditi erant
+Take: captus eram captus eras captus erat capti eramus capti eratis capti erant
+
+--- Future Perfect ---
+Praise: laudatus ero laudatus eris laudatus erit laudati erimus laudati eritis laudati erunt
+Remind: monitus ero monitus eris monitus erit moniti erimus moniti eritis moniti erunt
+Lead: ductus ero ductus eris ductus erit ducti erimus ducti eritis ducti erunt
+Hear: auditus ero auditus eris auditus erit auditi erimus auditi eritis auditi erunt
+Take: captus ero captus eris captus erit capti erimus capti eritis capti erunt
+
+=== Verbs, Subjunctive Active ===
+
+--- Present ---
+Praise: laudem laudes laudet laudemus laudetis laudent
+Remind: moneam moneas moneat moneamus moneatis moneant
+Lead: ducam ducas ducat ducamus ducatis ducant
+Hear: audiam audias audiat audiamus audiatis audiant
+Take: capiam capias capiat capiamus capiatis capiant
+
+--- Imperfect ---
+Praise: laudarem laudares laudaret laudaremus laudaretis laudarent
+Remind: monerem moneres moneret moneremus moneretis monerent
+Lead: ducerem duceres duceret duceremus duceretis ducerent
+Hear: audirem audires audiret audiremus audiretis audirent
+Take: caperem caperes caperet caperemus caperetis caperent
+
+--- Perfect ---
+Praise: laudaverim laudaveris laudaverit laudaverimus laudaveritis laudaverint
+Remind: monuerim monueris monuerit monuerimus monueritis monuerint
+Lead: duxerim duxeris duxerit duxerimus duxeritis duxerint
+Hear: audiverim audiveris audiverit audiverimus audiveritis audiverint
+Take: ceperim ceperis ceperit ceperimus ceperitis ceperint
+
+--- Pluperfect ---
+Praise: laudavissem laudavisses laudavisset laudavissemus laudavissetis laudavissent
+Remind: monuissem monuisses monuisset monuissemus monuissetis monuissent
+Lead: duxissem duxisses duxisset duxissemus duxissetis duxissent
+Hear: audivissem audivisses audivisset audivissemus audivissetis audivissent
+Take: cepissem cepisses cepisset cepissemus cepissetis cepissent
+
+=== Verbs, Subjunctive Passive ===
+
+--- Present ---
+Praise: lauder lauderis laudetur laudemur laudemini laudentur
+Remind: monear monearis moneatur moneamur moneamini moneantur
+Lead: ducar ducaris ducatur ducamur ducamini ducantur
+Hear: audiar audiaris audiatur audiamur audiamini audiantur
+Take: capiar capiaris capiatur capiamur capiamini capiantur
+
+--- Imperfect ---
+Praise: laudarer laudareris laudaretur laudaremur laudaremini laudarentur
+Remind: monerer monereris moneretur moneremur moneremini monerentur
+Lead: ducerer ducereris duceretur duceremur duceremini ducerentur
+Hear: audirer audireris audiretur audiremur audiremini audirentur
+Take: caperer capereris caperetur caperemur caperemini caperentur
+
+--- Perfect ---
+Praise: laudatus sim laudatus sis laudatus sit laudati simus laudati sitis laudati sint
+Remind: monitus sim monitus sis monitus sit moniti simus moniti sitis moniti sint
+Lead: ductus sim ductus sis ductus sit ducti simus ducti sitis ducti sint
+Hear: auditus sim auditus sis auditus sit auditi simus auditi sitis auditi sint
+Take: captus sim captus sis captus sit capti simus capti sitis capti sint
+
+--- Pluperfect ---
+Praise: laudatus essem laudatus esses laudatus esset laudati essemus laudati essetis laudati essent
+Remind: monitus essem monitus esses monitus esset moniti essemus moniti essetis moniti essent
+Lead: ductus essem ductus esses ductus esset ducti essemus ducti essetis ducti essent
+Hear: auditus essem auditus esses auditus esset auditi essemus auditi essetis auditi essent
+Take: captus essem captus esses captus esset capti essemus capti essetis capti essent
+

@@ -72,7 +72,11 @@ class TableController {
      */
     private function loadTable($name) {
         $tableLoader = new TableLoader();
-        $tables = $tableLoader->load('./db/data.txt');
+        if (isset($_COOKIE['strict_mode'])) {
+            $tables = $tableLoader->load('./db/data-strict.txt');
+        } else {
+            $tables = $tableLoader->load('./db/data.txt');
+        }
         if (! isset($tables[$name])) {
             throw new Exception('Unknown table: ' . $name . ' (1267601568)');
         }

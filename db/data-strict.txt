@@ -129,7 +129,7 @@ Take: cēperam cēperās cēperat cēperāmus cēperātis cēperant
 --- Future Perfect ---
 Praise: laudāverō laudāveris laudāverit laudāverimus laudāveritis laudāverint
 Remind: monuerō monueris monuerit monuerimus monueritis monuerint
-Lead: dūxero dūxeris dūxerit dūxerimus dūxeritis dūxerint
+Lead: dūxerō dūxeris dūxerit dūxerimus dūxeritis dūxerint
 Hear: audīverō audīveris audīverit audīverimus audīveritis audīverint
 Take: cēperō cēperis cēperit cēperimus cēperitis cēperint
 
@@ -194,11 +194,11 @@ Hear: audīrem audīrēs audīret audīrēmus audīrētis audīrent
 Take: caperem caperēs caperet caperēmus caperētis caperent
 
 --- Perfect ---
-Praise: laudāverim laudāverīs laudāverit laudāverīmus laudāverītis laudāverint
-Remind: monuerim monuerīs monuerit monuerīmus monuerītis monuerint
-Lead: dūxerim dūxerīs dūxerit dūxerīmus dūxerītis dūxerint
-Hear: audīverim audīverīs audīverit audīverīmus audīverītis audīverint
-Take: cēperim cēperīs cēperit cēperīmus cēperītis cēperint
+Praise: laudāverim laudāveris laudāverit laudāverimus laudāveritis laudāverint
+Remind: monuerim monueris monuerit monuerimus monueritis monuerint
+Lead: dūxerim dūxeris dūxerit dūxerimus dūxeritis dūxerint
+Hear: audīverim audīveris audīverit audīverimus audīveritis audīverint
+Take: cēperim cēperis cēperit cēperimus cēperitis cēperint
 
 --- Pluperfect ---
 Praise: laudāvissem laudāvissēs laudāvisset laudāvissēmus laudāvissētis laudāvissent

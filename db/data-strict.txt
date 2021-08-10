@@ -5,235 +5,235 @@ Gate (feminine): porta portae portae portam portā
 Gates (feminine): portae portārum portīs portās portīs
 
 --- Second Declension ---
-Friend (masculine): amicus amici amico amicum amico
-Friends (masculine): amici amicorum amicis amicos amicis
-Boy (masculine): puer pueri puero puerum puero
-Boys (masculine): pueri puerorum pueris pueros pueris
-Field (masculine): ager agri agro agrum agro
-Fields (masculine): agri agrorum agris agros agris
-Gift (neuter): donum doni dono donum dono
-Gifts (neuter): dona donorum donis dona donis
+Friend (masculine): amīcus amīcī amīcō amīcum amīcō
+Friends (masculine): amīcī amīcōrum amīcīs amīcōs amīcīs
+Boy (masculine): puer puerī puerō puerum puerō
+Boys (masculine): puerī puerōrum puerīs puerōs puerīs
+Field (masculine): ager agrī agrō agrum agrō
+Fields (masculine): agrī agrōrum agrīs agrōs agrīs
+Gift (neuter): donum donī donō donum donō
+Gifts (neuter): dona donōrum donīs dona donīs
 
 --- Third Declension ---
-King (masculine): rex regis regi regem rege
-Kings (masculine): reges regum regibus reges regibus
-Body (neuter): corpus corporis corpori corpus corpore
+King (masculine): rēx rēgis rēgī rēgem rēge
+Kings (masculine): rēgēs rēgum rēgibus rēgēs rēgibus
+Body (neuter): corpus corporis corporī corpus corpore
 Bodies (neuter): corpora corporum corporibus corpora corporibus
 
 --- Third Declension, I-Stems ---
-Citizen (masculine): civis civis civi civem cive
-Citizens (masculine): cives civium civibus cives civibus
-City (feminine): urbs urbis urbi urbem urbe
-Cities (feminine): urbes urbium urbibus urbes urbibus
-Sea (neuter): mare maris mari mare mari
+Citizen (masculine): cīvis cīvis cīvī cīvem cīve
+Citizens (masculine): cīvēs cīvium cīvibus cīvēs cīvibus
+City (feminine): urbs urbis urbī urbem urbe
+Cities (feminine): urbēs urbium urbibus urbēs urbibus
+Sea (neuter): mare maris marī mare marī
 Seas (neuter): maria marium maribus maria maribus
 
 --- Fourth Declension ---
-Fruit (masculine): fructus fructus fructui fructum fructu
-Fruits (masculine): fructus fructuum fructibus fructus fructibus
-Horn (neuter): cornu cornus cornu cornu cornu
+Fruit (masculine): frūctus frūctūs frūctuī frūctum frūctū
+Fruits (masculine): frūctūs frūctuum frūctibus frūctūs frūctibus
+Horn (neuter): cornū cornūs cornū cornū cornū
 Horns (neuter): cornua cornuum cornibus cornua cornibus
 
 --- Fifth Declension ---
-Day (masculine): dies diei diei diem die
-Days (masculine): dies dierum diebus dies diebus
+Day (masculine): diēs diēī diēī diem diē
+Days (masculine): diēs diērum diēbus diēs diēbus
 
 === Adjectives ===
 
 --- First and Second Declensions ---
-Large (masculine, singular): magnus magni magno magnum magno
-Large (masculine, plural): magni magnorum magnis magnos magnis
-Large (feminine, singular): magna magnae magnae magnam magna
-Large (feminine, plural): magnae magnarum magnis magnas magnis
-Large (neuter, singular): magnum magni magno magnum magno
-Large (neuter, plural): magna magnorum magnis magna magnis
+Large (masculine, singular): magnus magnī magnō magnum magnō
+Large (masculine, plural): magnī magnōrum magnīs magnōs magnīs
+Large (feminine, singular): magna magnae magnae magnam magnā
+Large (feminine, plural): magnae magnārum magnīs magnās magnīs
+Large (neuter, singular): magnum magnī magnō magnum magnō
+Large (neuter, plural): magna magnōrum magnīs magna magnīs
 
-Free (masculine, singular): liber liberi libero liberum libero
-Free (feminine, singular): libera liberae liberae liberam libera
-Free (neuter, singular): liberum liberi libero liberum libero
+Free (masculine, singular): līber līberī līberō līberum līberō
+Free (feminine, singular): lībera līberae līberae līberam līberā
+Free (neuter, singular): līberum līberī līberō līberum līberō
 
-Beautiful (masculine, singular): pulcher pulchri pulchro pulchrum pulchro
-Beautiful (feminine, singular): pulchra pulchrae pulchrae pulchram pulchra
-Beautiful (neuter, singular): pulchrum pulchri pulchro pulchrum pulchro
+Beautiful (masculine, singular): pulcher pulchrī pulchrō pulchrum pulchrō
+Beautiful (feminine, singular): pulchra pulchrae pulchrae pulchram pulchrā
+Beautiful (neuter, singular): pulchrum pulchrī pulchrō pulchrum pulchrō
 
 --- Third Declension ---
 [Two endings]
-Brave (masculine, singular): fortis fortis forti fortem forti
-Brave (masculine, plural): fortes fortium fortibus fortes fortibus
-Brave (feminine, singular): fortis fortis forti fortem forti
-Brave (feminine, plural): fortes fortium fortibus fortes fortibus
-Brave (neuter, singular): forte fortis forti forte forti
+Brave (masculine, singular): fortis fortis fortī fortem fortī
+Brave (masculine, plural): fortēs fortium fortibus fortēs fortibus
+Brave (feminine, singular): fortis fortis fortī fortem fortī
+Brave (feminine, plural): fortēs fortium fortibus fortēs fortibus
+Brave (neuter, singular): forte fortis fortī forte fortī
 Brave (neuter, plural): fortia fortium fortibus fortia fortibus
 
 [Three endings]
-Keen (masculine, singular): acer acris acri acrem acri
-Keen (masculine, plural): acres acrium acribus acres acribus
-Keen (feminine, singular): acris acris acri acrem acri
-Keen (feminine, plural): acres acrium acribus acres acribus
-Keen (neuter, singular): acre acris acri acre acri
-Keen (neuter, plural): acria acrium acribus acria acribus
+Keen (masculine, singular): ācer ācris ācrī ācrem ācrī
+Keen (masculine, plural): ācrēs ācrium ācribus ācrēs ācribus
+Keen (feminine, singular): ācris ācris ācrī ācrem ācrī
+Keen (feminine, plural): ācrēs ācrium ācribus ācrēs ācribus
+Keen (neuter, singular): ācre ācris ācrī ācre ācrī
+Keen (neuter, plural): ācria ācrium ācribus ācria ācribus
 
 [One ending]
-Powerful (masculine, singular): potens potentis potenti potentem potenti
-Powerful (masculine, plural): potentes potentium potentibus potentes potentibus
-Powerful (feminine, singular): potens potentis potenti potentem potenti
-Powerful (feminine, plural): potentes potentium potentibus potentes potentibus
-Powerful (neuter, singular): potens potentis potenti potens potenti
+Powerful (masculine, singular): potēns potentis potentī potentem potentī
+Powerful (masculine, plural): potentēs potentium potentibus potentēs potentibus
+Powerful (feminine, singular): potēns potentis potentī potentem potentī
+Powerful (feminine, plural): potentēs potentium potentibus potentēs potentibus
+Powerful (neuter, singular): potēns potentis potentī potēns potentī
 Powerful (neuter, plural): potentia potentium potentibus potentia potentibus
 
 [Comparatives]
-Braver (masculine, singular): fortior fortioris fortiori fortiorem fortiore
-Braver (masculine, plural): fortiores fortiorum fortioribus fortiores fortioribus
-Braver (feminine, singular): fortior fortioris fortiori fortiorem fortiore
-Braver (feminine, plural): fortiores fortiorum fortioribus fortiores fortioribus
-Braver (neuter, singular): fortius fortioris fortiori fortius fortiore
-Braver (neuter, plural): fortiora fortiorum fortioribus fortiora fortioribus
+Braver (masculine, singular): fortior fortiōris fortiōrī fortiōrem fortiōre
+Braver (masculine, plural): fortiōrēs fortiōrum fortiōribus fortiōrēs fortiōribus
+Braver (feminine, singular): fortior fortiōris fortiōrī fortiōrem fortiōre
+Braver (feminine, plural): fortiōrēs fortiōrum fortiōribus fortiōrēs fortiōribus
+Braver (neuter, singular): fortius fortiōris fortiōrī fortius fortiōre
+Braver (neuter, plural): fortiōra fortiōrum fortiōribus fortiōra fortiōribus
 
 === Verbs, Indicative Active ===
 
 --- Present ---
-Praise: laudo laudas laudat laudamus laudatis laudant
-Remind: moneo mones monet monemus monetis monent
-Lead: duco ducis ducit ducimus ducitis ducunt
-Hear: audio audis audit audimus auditis audiunt
-Take: capio capis capit capimus capitis capiunt
+Praise: laudō laudās laudat laudāmus laudātis laudant
+Remind: moneō monēs monet monēmus monētis monent
+Lead: dūcō dūcis dūcit dūcimus dūcitis dūcunt
+Hear: audiō audīs audit audīmus audītis audiunt
+Take: capiō capis capit capimus capitis capiunt
 
 --- Imperfect ---
-Praise: laudabam laudabas laudabat laudabamus laudabatis laudabant
-Remind: monebam monebas monebat monebamus monebatis monebant
-Lead: ducebam ducebas ducebat ducebamus ducebatis ducebant
-Hear: audiebam audiebas audiebat audiebamus audiebatis audiebant
-Take: capiebam capiebas capiebat capiebamus capiebatis capiebant
+Praise: laudābam laudābās laudābat laudābāmus laudābātis laudābant
+Remind: monēbam monēbās monēbat monēbāmus monēbātis monēbant
+Lead: dūcēbam dūcēbās dūcēbat dūcēbāmus dūcēbātis dūcēbant
+Hear: audiēbam audiēbās audiēbat audiēbāmus audiēbātis audiēbant
+Take: capiēbam capiēbās capiēbat capiēbāmus capiēbātis capiēbant
 
 --- Future ---
-Praise: laudabo laudabis laudabit laudabimus laudabitis laudabunt
-Remind: monebo monebis monebit monebimus monebitis monebunt
-Lead: ducam duces ducet ducemus ducetis ducent
-Hear: audiam audies audiet audiemus audietis audient
-Take: capiam capies capiet capiemus capietis capient
+Praise: laudābō laudābis laudābit laudābimus laudābitis laudābunt
+Remind: monēbō monēbis monēbit monēbimus monēbitis monēbunt
+Lead: dūcam dūcēs dūcet dūcēmus dūcētis dūcent
+Hear: audiam audiēs audiet audiēmus audiētis audient
+Take: capiam capiēs capiet capiēmus capiētis capient
 
 --- Perfect ---
-Praise: laudavi laudavisti laudavit laudavimus laudavistis laudaverunt
-Remind: monui monuisti monuit monuimus monuistis monuerunt
-Lead: duxi duxisti duxit duximus duxistis duxerunt
-Hear: audivi audivisti audivit audivimus audivistis audiverunt
-Take: cepi cepisti cepit cepimus cepistis ceperunt
+Praise: laudāvī laudāvistī laudāvit laudāvimus laudāvistis laudāvērunt
+Remind: monuī monuistī monuit monuimus monuistis monuērunt
+Lead: dūxī dūxistī dūxit dūximus dūxistis dūxērunt
+Hear: audīvī audīvistī audīvit audīvimus audīvistis audīvērunt
+Take: cēpī cēpistī cēpit cēpimus cēpistis cēpērunt
 
 --- Pluperfect ---
-Praise: laudaveram laudaveras laudaverat laudaveramus laudaveratis laudaverant
-Remind: monueram monueras monuerat monueramus monueratis monuerant
-Lead: duxeram duxeras duxerat duxeramus duxeratis duxerant
-Hear: audiveram audiveras audiverat audiveramus audiveratis audiverant
-Take: ceperam ceperas ceperat ceperamus ceperatis ceperant
+Praise: laudāveram laudāverās laudāverat laudāverāmus laudāverātis laudāverant
+Remind: monueram monuerās monuerat monuerāmus monuerātis monuerant
+Lead: dūxeram dūxerās dūxerat dūxerāmus dūxerātis dūxerant
+Hear: audīveram audīverās audīverat audīverāmus audīverātis audīverant
+Take: cēperam cēperās cēperat cēperāmus cēperātis cēperant
 
 --- Future Perfect ---
-Praise: laudavero laudaveris laudaverit laudaverimus laudaveritis laudaverint
-Remind: monuero monueris monuerit monuerimus monueritis monuerint
-Lead: duxero duxeris duxerit duxerimus duxeritis duxerint
-Hear: audivero audiveris audiverit audiverimus audiveritis audiverint
-Take: cepero ceperis ceperit ceperimus ceperitis ceperint
+Praise: laudāverō laudāveris laudāverit laudāverimus laudāveritis laudāverint
+Remind: monuerō monueris monuerit monuerimus monueritis monuerint
+Lead: dūxerō dūxeris dūxerit dūxerimus dūxeritis dūxerint
+Hear: audīverō audīveris audīverit audīverimus audīveritis audīverint
+Take: cēperō cēperis cēperit cēperimus cēperitis cēperint
 
 === Verbs, Indicative Passive ===
 
 --- Present ---
-Praise: laudor laudaris laudatur laudamur laudamini laudantur
-Remind: moneor moneris monetur monemur monemini monentur
-Lead: ducor duceris ducitur ducimur ducimini ducuntur
-Hear: audior audiris auditur audimur audimini audiuntur
-Take: capior caperis capitur capimur capimini capiuntur
+Praise: laudor laudāris laudātur laudāmur laudāminī laudantur
+Remind: moneor monēris monētur monēmur monēminī monentur
+Lead: dūcor dūceris dūcitur dūcimur dūciminī dūcuntur
+Hear: audior audīris audītur audīmur audīminī audiuntur
+Take: capior caperis capitur capimur capiminī capiuntur
 
 --- Imperfect ---
-Praise: laudabar laudabaris laudabatur laudabamur laudabamini laudabantur
-Remind: monebar monebaris monebatur monebamur monebamini monebantur
-Lead: ducebar ducebaris ducebatur ducebamur ducebamini ducebantur
-Hear: audiebar audiebaris audiebatur audiebamur audiebamini audiebantur
-Take: capiebar capiebaris capiebatur capiebamur capiebamini capiebantur
+Praise: laudābar laudābāris laudābātur laudābāmur laudābāminī laudābantur
+Remind: monēbar monēbāris monēbātur monēbāmur monēbāminī monēbantur
+Lead: dūcēbar dūcēbāris dūcēbātur dūcēbāmur dūcēbāminī dūcēbantur
+Hear: audiēbar audiēbāris audiēbātur audiēbāmur audiēbāminī audiēbantur
+Take: capiēbar capiēbāris capiēbātur capiēbāmur capiēbāminī capiēbantur
 
 --- Future ---
-Praise: laudabor laudaberis laudabitur laudabimur laudabimini laudabuntur
-Remind: monebor moneberis monebitur monebimur monebimini monebuntur
-Lead: ducar duceris ducetur ducemur ducemini ducentur
-Hear: audiar audieris audietur audiemur audiemini audientur
-Take: capiar capieris capietur capiemur capiemini capientur
+Praise: laudābor laudāberis laudābitur laudābimur laudābiminī laudābuntur
+Remind: monēbor monēberis monēbitur monēbimur monēbiminī monēbuntur
+Lead: dūcar dūcēris dūcētur dūcēmur dūcēminī dūcentur
+Hear: audiar audiēris audiētur audiēmur audiēminī audientur
+Take: capiar capiēris capiētur capiēmur capiēminī capientur
 
 --- Perfect ---
-Praise: laudatus sum laudatus es laudatus est laudati sumus laudati estis laudati sunt
-Remind: monitus sum monitus es monitus est moniti sumus moniti estis moniti sunt
-Lead: ductus sum ductus es ductus est ducti sumus ducti estis ducti sunt
-Hear: auditus sum auditus es auditus est auditi sumus auditi estis auditi sunt
-Take: captus sum captus es captus est capti sumus capti estis capti sunt
+Praise: laudātus sum laudātus es laudātus est laudātī sumus laudātī estis laudātī sunt
+Remind: monitus sum monitus es monitus est monitī sumus monitī estis monitī sunt
+Lead: ductus sum ductus es ductus est ductī sumus ductī estis ductī sunt
+Hear: audītus sum audītus es audītus est audītī sumus audītī estis audītī sunt
+Take: captus sum captus es captus est captī sumus captī estis captī sunt
 
 --- Pluperfect ---
-Praise: laudatus eram laudatus eras laudatus erat laudati eramus laudati eratis laudati erant
-Remind: monitus eram monitus eras monitus erat moniti eramus moniti eratis moniti erant
-Lead: ductus eram ductus eras ductus erat ducti eramus ducti eratis ducti erant
-Hear: auditus eram auditus eras auditus erat auditi eramus auditi eratis auditi erant
-Take: captus eram captus eras captus erat capti eramus capti eratis capti erant
+Praise: laudātus eram laudātus erās laudātus erat laudātī erāmus laudātī erātis laudātī erant
+Remind: monitus eram monitus erās monitus erat monitī erāmus monitī erātis monitī erant
+Lead: ductus eram ductus erās ductus erat ductī erāmus ductī erātis ductī erant
+Hear: audītus eram audītus erās audītus erat audītī erāmus audītī erātis audītī erant
+Take: captus eram captus erās captus erat captī erāmus captī erātis captī erant
 
 --- Future Perfect ---
-Praise: laudatus ero laudatus eris laudatus erit laudati erimus laudati eritis laudati erunt
-Remind: monitus ero monitus eris monitus erit moniti erimus moniti eritis moniti erunt
-Lead: ductus ero ductus eris ductus erit ducti erimus ducti eritis ducti erunt
-Hear: auditus ero auditus eris auditus erit auditi erimus auditi eritis auditi erunt
-Take: captus ero captus eris captus erit capti erimus capti eritis capti erunt
+Praise: laudātus erō laudātus eris laudātus erit laudātī erimus laudātī eritis laudātī erunt
+Remind: monitus erō monitus eris monitus erit monitī erimus monitī eritis monitī erunt
+Lead: ductus erō ductus eris ductus erit ductī erimus ductī eritis ductī erunt
+Hear: audītus erō audītus eris audītus erit audītī erimus audītī eritis audītī erunt
+Take: captus erō captus eris captus erit captī erimus captī eritis captī erunt
 
 === Verbs, Subjunctive Active ===
 
 --- Present ---
-Praise: laudem laudes laudet laudemus laudetis laudent
-Remind: moneam moneas moneat moneamus moneatis moneant
-Lead: ducam ducas ducat ducamus ducatis ducant
-Hear: audiam audias audiat audiamus audiatis audiant
-Take: capiam capias capiat capiamus capiatis capiant
+Praise: laudem laudēs laudet laudēmus laudētis laudent
+Remind: moneam moneās moneat moneāmus moneātis moneant
+Lead: dūcam dūcās dūcat dūcāmus dūcātis dūcant
+Hear: audiam audiās audiat audiāmus audiātis audiant
+Take: capiam capiās capiat capiāmus capiātis capiant
 
 --- Imperfect ---
-Praise: laudarem laudares laudaret laudaremus laudaretis laudarent
-Remind: monerem moneres moneret moneremus moneretis monerent
-Lead: ducerem duceres duceret duceremus duceretis ducerent
-Hear: audirem audires audiret audiremus audiretis audirent
-Take: caperem caperes caperet caperemus caperetis caperent
+Praise: laudārem laudārēs laudāret laudārēmus laudārētis laudārent
+Remind: monērem monērēs monēret monērēmus monērētis monērent
+Lead: dūcerem dūcerēs dūceret dūcerēmus dūcerētis dūcerent
+Hear: audīrem audīrēs audīret audīrēmus audīrētis audīrent
+Take: caperem caperēs caperet caperēmus caperētis caperent
 
 --- Perfect ---
-Praise: laudaverim laudaveris laudaverit laudaverimus laudaveritis laudaverint
+Praise: laudāverim laudāveris laudāverit laudāverimus laudāveritis laudāverint
 Remind: monuerim monueris monuerit monuerimus monueritis monuerint
-Lead: duxerim duxeris duxerit duxerimus duxeritis duxerint
-Hear: audiverim audiveris audiverit audiverimus audiveritis audiverint
-Take: ceperim ceperis ceperit ceperimus ceperitis ceperint
+Lead: dūxerim dūxeris dūxerit dūxerimus dūxeritis dūxerint
+Hear: audīverim audīveris audīverit audīverimus audīveritis audīverint
+Take: cēperim cēperis cēperit cēperimus cēperitis cēperint
 
 --- Pluperfect ---
-Praise: laudavissem laudavisses laudavisset laudavissemus laudavissetis laudavissent
-Remind: monuissem monuisses monuisset monuissemus monuissetis monuissent
-Lead: duxissem duxisses duxisset duxissemus duxissetis duxissent
-Hear: audivissem audivisses audivisset audivissemus audivissetis audivissent
-Take: cepissem cepisses cepisset cepissemus cepissetis cepissent
+Praise: laudāvissem laudāvissēs laudāvisset laudāvissēmus laudāvissētis laudāvissent
+Remind: monuissem monuissēs monuisset monuissēmus monuissētis monuissent
+Lead: dūxissem dūxissēs dūxisset dūxissēmus dūxissētis dūxissent
+Hear: audīvissem audīvissēs audīvisset audīvissēmus audīvissētis audīvissent
+Take: cēpissem cēpissēs cēpisset cēpissēmus cēpissētis cēpissent
 
 === Verbs, Subjunctive Passive ===
 
 --- Present ---
-Praise: lauder lauderis laudetur laudemur laudemini laudentur
-Remind: monear monearis moneatur moneamur moneamini moneantur
-Lead: ducar ducaris ducatur ducamur ducamini ducantur
-Hear: audiar audiaris audiatur audiamur audiamini audiantur
-Take: capiar capiaris capiatur capiamur capiamini capiantur
+Praise: lauder laudēris laudētur laudēmur laudēminī laudentur
+Remind: monear moneāris moneātur moneāmur moneāminī moneantur
+Lead: dūcar dūcāris dūcātur dūcāmur dūcāminī dūcantur
+Hear: audiar audiāris audiātur audiāmur audiāminī audiantur
+Take: capiar capiāris capiātur capiāmur capiāminī capiantur
 
 --- Imperfect ---
-Praise: laudarer laudareris laudaretur laudaremur laudaremini laudarentur
-Remind: monerer monereris moneretur moneremur moneremini monerentur
-Lead: ducerer ducereris duceretur duceremur duceremini ducerentur
-Hear: audirer audireris audiretur audiremur audiremini audirentur
-Take: caperer capereris caperetur caperemur caperemini caperentur
+Praise: laudārer laudārēris laudārētur laudārēmur laudārēminī laudārentur
+Remind: monērer monērēris monērētur monērēmur monērēminī monērentur
+Lead: dūcerer dūcerēris dūcerētur dūcerēmur dūcerēminī dūcerentur
+Hear: audīrer audīrēris audīrētur audīrēmur audīrēminī audīrentur
+Take: caperer caperēris caperētur caperēmur caperēminī caperentur
 
 --- Perfect ---
-Praise: laudatus sim laudatus sis laudatus sit laudati simus laudati sitis laudati sint
-Remind: monitus sim monitus sis monitus sit moniti simus moniti sitis moniti sint
-Lead: ductus sim ductus sis ductus sit ducti simus ducti sitis ducti sint
-Hear: auditus sim auditus sis auditus sit auditi simus auditi sitis auditi sint
-Take: captus sim captus sis captus sit capti simus capti sitis capti sint
+Praise: laudātus sim laudātus sīs laudātus sit laudātī sīmus laudātī sītis laudātī sint
+Remind: monitus sim monitus sīs monitus sit monitī sīmus monitī sītis monitī sint
+Lead: ductus sim ductus sīs ductus sit ductī sīmus ductī sītis ductī sint
+Hear: audītus sim audītus sīs audītus sit audītī sīmus audītī sītis audītī sint
+Take: captus sim captus sīs captus sit captī sīmus captī sītis captī sint
 
 --- Pluperfect ---
-Praise: laudatus essem laudatus esses laudatus esset laudati essemus laudati essetis laudati essent
-Remind: monitus essem monitus esses monitus esset moniti essemus moniti essetis moniti essent
-Lead: ductus essem ductus esses ductus esset ducti essemus ducti essetis ducti essent
-Hear: auditus essem auditus esses auditus esset auditi essemus auditi essetis auditi essent
-Take: captus essem captus esses captus esset capti essemus capti essetis capti essent
+Praise: laudātus essem laudātus essēs laudātus esset laudātī essēmus laudātī essētis laudātī essent
+Remind: monitus essem monitus essēs monitus esset monitī essēmus monitī essētis monitī essent
+Lead: ductus essem ductus essēs ductus esset ductī essēmus ductī essētis ductī essent
+Hear: audītus essem audītus essēs audītus esset audītī essēmus audītī essētis audītī essent
+Take: captus essem captus essēs captus esset captī essēmus captī essētis captī essent
 
